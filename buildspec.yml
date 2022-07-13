@@ -47,7 +47,7 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/test.jar
+    - target/Claims-authorization.jar
   discard-paths: yes
 
 
