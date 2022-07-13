@@ -221,6 +221,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Claims-authorization</finalName>
 	</build>
 
 
